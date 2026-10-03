@@ -1,0 +1,22 @@
+{
+  "packs": [
+    {
+      "name": "NorthLand 主资源包",
+      "url": "https://example.com/nlrpu/main_v1.zip",
+      "savePath": "main_v1.zip",
+      "size": 52428800,
+      "encrypted": true,
+      "modrinth_or_curseforge": false,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "name": "Modrinth 附属包",
+      "url": "https://cdn.modrinth.com/data/abc123/versions/xyz/pack.zip",
+      "savePath": "side_pack.zip",
+      "size": 10485760,
+      "encrypted": false,
+      "modrinth_or_curseforge": true,
+      "sha256": "cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce"
+    }
+  ]
+}
